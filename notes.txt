@@ -1,0 +1,8 @@
+// npm init ---> done
+// npm install express , mongoose , body-parser ---> done
+// npm install cookie-parser ---> done
+// npm install express-session ---> done
+// npm install uuid ---> done
+// create connection to database with mongoose
+// create models (name , schema) ---> done
+// create APIs (url , req , resp , interact with database models)
